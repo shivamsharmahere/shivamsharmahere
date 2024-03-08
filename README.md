@@ -1,7 +1,7 @@
 # <h1 align="center">👋 Hello World, I'm Shivam Sharma !</h1>
 I'm a passionate Python enthusiast and Machine Learning practitioner with a keen interest in Data Analysis. As a skilled developer, I've leveraged my expertise to create impactful projects, exploring the fascinating realms of data and artificial intelligence.
 
-<img align="right" alt="coding" width="165" height="110" src="https://github.com/Shivammpurohit/Shivammpurohit/blob/main/coding1.gif">
+<img align="right" alt="coding" width="165" height="100" src="https://github.com/Shivammpurohit/Shivammpurohit/blob/main/coding1.gif">
 
 - 🚀 I’m currently learning **Advanced Machine Learning , Feature Engineering**
 - 🌟 Always Excited to collaborate, learn, and contribute to the world of technology! 🚀
