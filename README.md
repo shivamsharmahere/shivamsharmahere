@@ -4,7 +4,7 @@ I'm a passionate Python enthusiast and Machine Learning practitioner with a keen
 <img align="right" alt="coding" width="160" height="95" src="https://github.com/Shivammpurohit/Shivammpurohit/blob/main/coding1.gif">
 
 - 🚀 I’m currently learning **Deep Learning , LLM Finetuning**
-- 🌟 Always Excited to collaborate, learn, and contribute to the world of technology! 
+- 🌟 Always Excited to collaborate, learn, and contribute to the world of technology ! 
   
 
 
